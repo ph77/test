@@ -2,6 +2,7 @@
 2 b
 3 c
 4 d
+4.5 new line
 5 e
-6f
+6 f
 7 g
