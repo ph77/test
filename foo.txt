@@ -7,6 +7,7 @@
 5 e
 6 f
 7 gg
-8 h (changed)
+new line before
+8 h (changed) 00
 9 ii
 10 pp
