@@ -1,3 +1,4 @@
+0 -
 1 a
 2 b
 3 c
@@ -5,4 +6,8 @@
 4.5 new line
 5 e
 6 f
-7 g
+7 gg
+new line before
+8 h (changed) 00
+9 ii
+10 pp
